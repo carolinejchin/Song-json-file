@@ -1,0 +1,19 @@
+songs =[
+                {"name" : "Clocks", "artists" : "Coldplay", "genre" : ["Rock", "Alternative Rock"], "year" : 2003},
+                {"name" : "Shots", "artists" : "Imagine Dragons", "genre" : ["Rock"], "year" : 2015},
+                {"name" : "Mirrors", "artists" : "Niall Horan", "genre" : ["Pop"], "year" : 2017},
+                {"name" : "Reptilia", "artists" : "The Strokes", "genre" : ["Indie"], "year" : 2004},
+                {"name" : "Time of Our Lives", "artists" : "Pitbull, Ne-Yo", "genre" : ["Pop"], "year" : 2014},
+                {"name" : "Stockholm Syndrome", "artists" : "One Direction", "genre" : ["Pop"], "year" : 2014},
+                {"name" : "Life is a Highway", "artists" : "Rascal Flatts", "genre" : ["Rock"], "year" : 2008},
+                {"name" : "Every Breath You Take", "artists" : "The Police", "genre" : ["Rock"], "year" : 1983},
+                {"name" : "Better Together", "artists" : "Jack Johnson", "genre" : ["Rock"], "year" : 2006},
+                {"name" : "Walls", "artists" : "Louis Tomlinson", "genre" : ["Pop"], "year" : 2020}
+];
+
+            
+
+            
+        
+        
+    
