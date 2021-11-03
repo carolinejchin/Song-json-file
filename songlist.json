@@ -1,4 +1,4 @@
-songs =[
+{songs =[
                 {"name" : "Clocks", "artists" : "Coldplay", "genre" : ["Rock", "Alternative Rock"], "year" : 2003},
                 {"name" : "Shots", "artists" : "Imagine Dragons", "genre" : ["Rock"], "year" : 2015},
                 {"name" : "Mirrors", "artists" : "Niall Horan", "genre" : ["Pop"], "year" : 2017},
@@ -9,7 +9,7 @@ songs =[
                 {"name" : "Every Breath You Take", "artists" : "The Police", "genre" : ["Rock"], "year" : 1983},
                 {"name" : "Better Together", "artists" : "Jack Johnson", "genre" : ["Rock"], "year" : 2006},
                 {"name" : "Walls", "artists" : "Louis Tomlinson", "genre" : ["Pop"], "year" : 2020}
-];
+]}
 
             
 
